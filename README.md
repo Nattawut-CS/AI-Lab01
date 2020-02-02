@@ -1,6 +1,4 @@
 # AI-T02-Lab01
-Lab01 Networkx : Computer Science (AI)
-
+Lab01 Networkx (Python)
 สอนโดย อาจารย์วรพันธ์
-
 ชื่อนายณัฐวุฒิ  มีสามเสน
