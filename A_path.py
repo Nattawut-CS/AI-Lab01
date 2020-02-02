@@ -13,5 +13,5 @@ G = nx.grid_graph(dim=[3,3])
 
 print(nx.astar_path(G, (0,0),(2,2),dist))
 nx.draw(G, with_labels=True)
-plt.show()
 plt.savefig('a_path.png')
+plt.show()
